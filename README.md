@@ -28,7 +28,7 @@ This project contains an Excel-based dashboard analyzing coffee shop sales data.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpeg)
 
 ## 📂 Files Included
 
